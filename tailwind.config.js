@@ -6,12 +6,13 @@ export default {
       colors: {
         primary: "#369AC1",
         secondary: "#4EC2C2",
+        "final-grey": "#858484",
       },
       fontSize: {
         sm: ["14px", "20px"],
-        base: ["18px", "20px"],
-        lg: ["48px", "28px"],
-        xl: ["24px", "32px"],
+        base: ["18px", "27px"],
+        lg: ["37px", "45px"],
+        xl: ["48px"],
       },
     },
   },
