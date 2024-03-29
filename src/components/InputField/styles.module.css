@@ -1,0 +1,15 @@
+.customInput {
+  background-color: #f1f1f1;
+  border-radius: 12px;
+  width: 100%;
+  padding: 20px 20px 20px;
+}
+
+.customInput:focus {
+  border-color: #007bff;
+}
+
+.customInput::placeholder {
+  font-weight: 500;
+  color: #757474;
+}

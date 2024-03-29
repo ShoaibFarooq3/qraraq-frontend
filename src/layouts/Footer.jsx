@@ -5,7 +5,7 @@ const Footer = () => {
   return (
     <>
       <footer className="text-white bg-gradient-to-b from-primary from-20% to-secondary to-80%">
-        <div className="container mx-auto flex flex-wrap justify-center items-center py-8 px-[105px]">
+        <div className=" mx-auto flex flex-wrap justify-center items-center py-8 px-[105px]">
           <div className="w-full font-bold md:w-1/3 mb-4 md:mb-0 ">
             <p className="text-base">Subscribe to Our Newsletter</p>
             <div className="flex mt-2">
